@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926521109608",
+    "firebase_url": "https://dm114-android-project03.firebaseio.com",
+    "project_id": "dm114-android-project03",
+    "storage_bucket": "dm114-android-project03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926521109608:android:ae453b1df2c19e0d71dfdd",
+        "android_client_info": {
+          "package_name": "br.com.siecola.androidproject03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926521109608-lqdsm9elr30s2l4hvuqe6scalh1g1pla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARF3d8zOzOYcv3SrmJoWVSrZXtH5M4RsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926521109608-lqdsm9elr30s2l4hvuqe6scalh1g1pla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
